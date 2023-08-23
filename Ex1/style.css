@@ -1,0 +1,19 @@
+.Catalogo{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.img-table{
+    width: 10%;
+}
+
+#tt{
+    margin-top: 10%;
+    padding-left:10% ;
+}
